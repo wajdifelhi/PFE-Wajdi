@@ -1,0 +1,5 @@
+c:\Users\DELL\documents\visual studio 2015\Projects\MsmqTest\MSMQ_receiver\bin\Debug\MSMQ_receiver.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\MsmqTest\MSMQ_receiver\bin\Debug\MSMQ_receiver.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\MsmqTest\MSMQ_receiver\bin\Debug\MSMQ_receiver.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\MsmqTest\MSMQ_receiver\obj\Debug\MSMQ_receiver.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\MsmqTest\MSMQ_receiver\obj\Debug\MSMQ_receiver.pdb
